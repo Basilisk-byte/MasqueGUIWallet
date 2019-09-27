@@ -7,9 +7,9 @@ git clone https://github.com/cryptonotefoundation/cryptonotewallet.git
 **2. Modify `CryptoNoteWallet.cmake`**
  
 ```
-set(CN_PROJECT_NAME "furiouscoin")
-set(CN_CURRENCY_DISPLAY_NAME "FuriousCoin")
-set(CN_CURRENCY_TICKER "XFC")
+set(CN_PROJECT_NAME "masquecoin")
+set(CN_CURRENCY_DISPLAY_NAME "MasqueCoin")
+set(CN_CURRENCY_TICKER "MSQ")
 ```
 
 **3. Set symbolic link to coin sources at the same level as `src`. For example:**
